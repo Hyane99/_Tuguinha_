@@ -38,10 +38,10 @@ module.exports = {
 
   nodes: [
     {
-        name: "AjieDev - Lavalink [Non SSL | US]",
-        host: "lava-v3.ajieblogs.eu.org",
-        port: 80,
-        password: "https://dsc.gg/ajidevserver",
+        name: "Server",
+        host: "nodev4.fypmoon.org",
+        port: 1118,
+        password: "fypmoon.org",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
