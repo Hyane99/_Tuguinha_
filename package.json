@@ -19,6 +19,6 @@
   "author": "GlaceYT",
   "license": "MIT",
   "engines": {
-    "node": "22.11.0"
+    "node": "20.x"
   }
 }
