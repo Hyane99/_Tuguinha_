@@ -17,7 +17,7 @@
     "start": "node index.js"
   },
   "author": "GlaceYT",
-  "license": "XX",
+  "license": "MIT",
   "engines": {
     "node": "20.x"
   }
